@@ -13,5 +13,6 @@ public class Test1 {
         System.out.println("个位是："+ones);
         System.out.println("十位是："+tens);
         System.out.println("百位是："+hundreds);
+        sc.close();
     }
 }

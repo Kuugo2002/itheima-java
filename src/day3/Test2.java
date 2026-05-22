@@ -11,5 +11,6 @@ public class Test2 {
         int lnyFashion=sc.nextInt();
         boolean result=kuugoFashion>lnyFashion;
         System.out.println(result);
+        sc.close();
     }
 }
